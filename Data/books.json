@@ -1,0 +1,66 @@
+[
+    {
+        "title": "RICH DAD POOR DAD",
+        "author": "Robert Kiyosaki and Sharon L. Lechter",
+        "genre": "Personal finance, Self-help",
+        "year": 1997,
+        "description": "A book that advocates the importance of financial literacy, financial independence and building wealth through investing in assets, real estate investing, starting and owning businesses, as well as increasing one's financial intelligence.",
+        "liked": false
+    },
+    {
+        "title": "The 16% Solution: How to Get High Interest Rates in a Low Interest World with Tax",
+        "author": "Joel S. Moskowitz",
+        "genre": "Finance",
+        "year": 1994,
+        "description": "A comprehensive guide to personal finance and investment that explains how to achieve the maximum financial yield in a time of low interest rates and a weak stock market.",
+        "liked": true
+    },
+    {
+        "title": "Think and Grow Rich: The Law of Success",
+        "author": "Napoleon Hill",
+        "genre": "Self-help",
+        "year": 1937,
+        "description": "A book that provides the reader with 14 principles in the form of a 'Philosophy of Achievement'. The main theme of the book is that anyone can achieve success and wealth by following a certain set of principles.",
+        "liked": false
+    },
+    {
+        "title": "Beating the Street",
+        "author": "Peter Lynch",
+        "genre": "Finance",
+        "year": 1994,
+        "description": "A book where Peter Lynch explains his own strategies for investing and offers advice for how to pick stocks and mutual funds to assemble a successful investment portfolio.",
+        "liked": true
+    },
+    {
+        "title": "Think and Grow Rich",
+        "author": "Napoleon Hill",
+        "genre": "Self-help",
+        "year": 1937,
+        "description": "A personal development and self-improvement book by Napoleon Hill. The book teaches the reader strategies on how to overcome obstacles, get rich, and achieve their goals.",
+        "liked": true
+    },
+    {
+        "title": "The WEIRDest People in the World",
+        "author": "Joseph Henrich",
+        "genre": "Sociology",
+        "year": 2020,
+        "description": "A book that explores how culture, institutions, and psychology shape one another, and explains what this means for both our most personal sense of who we are as individuals and also the large-scale social, political, and economic forces that drive human history.",
+        "liked": true
+    },
+    {
+        "title": "WHO TOOK MY MONEY",
+        "author": "Robert Kiyosaki",
+        "genre": "Finance",
+        "year": 2004,
+        "description": "A book that explains why saving your money is a bad idea. It explains how you are losing money by keeping it parked. The book encourages readers to invest their money.",
+        "liked": true
+    },
+    {
+        "title": "10 MUST READS ON EMOTIONAL INTELIGENCE",
+        "author": "Harvard Business Review",
+        "genre": "Psychology",
+        "year": 2015,
+        "description": "A collection of 10 articles by experts in the field of emotional intelligence. The book provides strategies to help boost your emotional skills and professional success.",
+        "liked": true
+    }
+]
