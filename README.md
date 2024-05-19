@@ -1,6 +1,6 @@
 **Welcome to the Book Library Project!** This is a virtual space where book collectors and people with an introductory level of code can unite with their difference of programing level, and try out, modify, rebuild this project to the next level. 
 
-Had an idea of digital book library? want to get inspired for similar project with algorithms or just curious? 
+Had an idea of a digital book library? want to get inspired for similar project with algorithms or just curious? 
 Maybe this is the right place.
 
 This med-complex but yet not too sophisticated graphical user interface is like a private little corner. You can review your most read genres. You are given the ability to edit the code with no prior knowledge in coding. You can edit details of your own books.
