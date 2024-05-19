@@ -13,4 +13,5 @@ This med-complex but yet not too sophisticated graphical user interface is like 
 
 The idea is that any developer can edit this interactive library on his own with little or no knowledge in algorithms. You can improve this GUI, search mechanism, or even add some extra features like adding to the terminal an AI to help you find a book that doesn't exist in your library and automatically download details about it into your library instead of adding information manually after each book you’ve read.
 
-**Getting Started:** Download the file or copy paste it into your favorite coding environment and enjoy :p
+**Getting Started:** Download the file or copy paste it into your favorite coding environment with python extention,
+run it and enjoy :p
