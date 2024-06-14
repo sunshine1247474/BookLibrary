@@ -15,4 +15,4 @@ The idea is that any developer can edit this interactive library on his own with
 
 **Getting Started:** Download the file or copy paste it into your favorite coding environment with python extention,
 
-run it and enjoy :p
+test it out.
